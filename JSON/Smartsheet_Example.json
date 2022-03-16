@@ -1,0 +1,195 @@
+{
+    "accessLevel": "OWNER",
+    "columns": [
+        {
+            "id": 7835064864139140,
+            "index": 0,
+            "primary": true,
+            "title": "COLUMN_A",
+            "type": "TEXT_NUMBER",
+            "validation": false,
+            "version": 0,
+            "width": 150
+        },
+        {
+            "id": 2205565329926020,
+            "index": 1,
+            "title": "COLUMN_B",
+            "type": "TEXT_NUMBER",
+            "validation": false,
+            "version": 0,
+            "width": 150
+        },
+        {
+            "id": 5766685923796868,
+            "index": 2,
+            "options": [
+                "C1",
+                "C2",
+                "C3"
+            ],
+            "title": "COLUMN_C",
+            "type": "PICKLIST",
+            "validation": true,
+            "version": 0,
+            "width": 150
+        },
+        {
+            "id": 3514886110111620,
+            "index": 3,
+            "options": [
+                "D",
+                "1",
+                "D",
+                "2",
+                "D",
+                "3"
+            ],
+            "title": "COLUMN_D",
+            "type": "MULTI_PICKLIST",
+            "validation": true,
+            "version": 2,
+            "width": 150
+        },
+        {
+            "id": 8018485737482116,
+            "index": 4,
+            "title": "COLUMN_E",
+            "type": "CONTACT_LIST",
+            "validation": false,
+            "version": 0,
+            "width": 150
+        }
+    ],
+    "createdAt": "2022-01-27T04:57:31+00:00Z",
+    "dependenciesEnabled": false,
+    "effectiveAttachmentOptions": [
+        "DROPBOX",
+        "FILE",
+        "EGNYTE",
+        "LINK"
+    ],
+    "ganttEnabled": false,
+    "hasSummaryFields": false,
+    "id": 1450131259189124,
+    "modifiedAt": "2022-01-27T05:03:01+00:00Z",
+    "name": "Smartsheet API | Test Grid",
+    "permalink": "https://app.smartsheet.com/sheets/VGgWhx4r5QGPVfXVPGvFgvchVvxQV6h53p4c2V21",
+    "resourceManagementEnabled": false,
+    "rows": [
+        {
+            "cells": [
+                {
+                    "columnId": 7835064864139140,
+                    "displayValue": "A1",
+                    "value": "A1"
+                },
+                {
+                    "columnId": 2205565329926020,
+                    "displayValue": "B1",
+                    "value": "B1"
+                },
+                {
+                    "columnId": 5766685923796868,
+                    "displayValue": "C1",
+                    "value": "C1"
+                },
+                {
+                    "columnId": 3514886110111620,
+                    "displayValue": "1, D"
+                },
+                {
+                    "columnId": 8018485737482116,
+                    "displayValue": "Abinesh Seelan",
+                    "value": "abineshs@dowbuilt.com"
+                }
+            ],
+            "createdAt": "2022-01-27T05:03:01+00:00Z",
+            "expanded": true,
+            "id": 5878586523182980,
+            "modifiedAt": "2022-01-27T05:03:01+00:00Z",
+            "rowNumber": 1
+        },
+        {
+            "cells": [
+                {
+                    "columnId": 7835064864139140,
+                    "displayValue": "A2",
+                    "value": "A2"
+                },
+                {
+                    "columnId": 2205565329926020,
+                    "displayValue": "B2",
+                    "value": "B2"
+                },
+                {
+                    "columnId": 5766685923796868,
+                    "displayValue": "C2",
+                    "value": "C2"
+                },
+                {
+                    "columnId": 3514886110111620,
+                    "displayValue": "2, D"
+                },
+                {
+                    "columnId": 8018485737482116,
+                    "displayValue": "Katherine Ranieri",
+                    "value": "katheriner@dowbuilt.com"
+                }
+            ],
+            "createdAt": "2022-01-27T05:03:01+00:00Z",
+            "expanded": true,
+            "id": 3626786709497732,
+            "modifiedAt": "2022-01-27T05:03:01+00:00Z",
+            "rowNumber": 2,
+            "siblingId": 5878586523182980
+        },
+        {
+            "cells": [
+                {
+                    "columnId": 7835064864139140,
+                    "displayValue": "A3",
+                    "value": "A3"
+                },
+                {
+                    "columnId": 2205565329926020,
+                    "displayValue": "B3",
+                    "value": "B3"
+                },
+                {
+                    "columnId": 5766685923796868,
+                    "displayValue": "C3",
+                    "value": "C3"
+                },
+                {
+                    "columnId": 3514886110111620,
+                    "displayValue": "D, 3"
+                },
+                {
+                    "columnId": 8018485737482116,
+                    "displayValue": "Yushi Wang",
+                    "value": "yushiw@dowbuilt.com"
+                }
+            ],
+            "createdAt": "2022-01-27T05:03:01+00:00Z",
+            "expanded": true,
+            "id": 8130386336868228,
+            "modifiedAt": "2022-01-27T05:03:01+00:00Z",
+            "rowNumber": 3,
+            "siblingId": 3626786709497732
+        }
+    ],
+    "totalRowCount": 3,
+    "userPermissions": {
+        "summaryPermissions": "ADMIN"
+    },
+    "userSettings": {
+        "criticalPathEnabled": false,
+        "displaySummaryTasks": true
+    },
+    "version": 1,
+    "workspace": {
+        "id": 6366307718326148,
+        "name": "Digital Construction Team"
+    }
+}
